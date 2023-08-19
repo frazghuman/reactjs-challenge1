@@ -1,0 +1,14 @@
+.BattleContainer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-bottom: 10px;
+}
+
+.ButtonStartBattle {
+    text-transform: capitalize !important;
+}
+
+.Placeholder.MuiPaper-root {
+    display: flex !important;
+}

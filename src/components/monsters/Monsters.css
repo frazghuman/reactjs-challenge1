@@ -1,0 +1,14 @@
+.Heading {
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 28px;
+    letter-spacing: 0em;
+    text-align: left;
+    padding-bottom: 12px;
+}
+
+.MonstersContainer {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 30px;
+}
